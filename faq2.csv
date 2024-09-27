@@ -1,0 +1,5 @@
+QUESTIONS,ANSWER
+what is the use of an Org Unit,Org Unit is uses to provide a level of visibility to the users which are a associated to that Org unit. Every contract and user belongs to an Org Unit
+Org Unit VS Security Groups,Org Unit is uses to provide a level of visibility whereas Security Groups give access of manage or view  different privilages
+Can a user be given multiple Security Groups,"Yes, in that the user will be given a Union of all the privilages from both the Security Groups"
+Why is the system allowing a user to have multiple Security Groups,NA

@@ -1,0 +1,5 @@
+QUESTIONS,ANSWER
+Users in the same org unit with privileges should not see each other's contract but a person at parent should see every user's contract in the child org unit,"We can send the contract to an upper org unit, this will prevent anybody from the owner's org unit to view, but the owner will see it as he or she is in the team."
+How can a person view a contract of which he or she has been given no privilage through security groups,"The person can be added to the team, giving access in team trumps all other accesses "
+What is an Org structure,The Org structure is a kind of tree which provides hirarachy to org units
+Users in the same org unit with privileges should not see each other's contract but a person at parent should see every user's contract in the child org unit,
